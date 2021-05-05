@@ -41,3 +41,11 @@ S
 events/views.py,a\0\a03f5848dfdec87bc87e48fb246c22493fe13c49
 Q
 !events/templates/events/home.html,4\9\491701bedce9a2e383775599a825a7ecfc8ee929
+M
+blog/templates/blog/blog.html,8\9\8955e2e0dcf049c5454f151be4fc1a385620aad3
+=
+blog/tests.py,a\d\ad2fa097158bb799ebb227eaa60d28b415e3f7c6
+<
+blog/urls.py,f\6\f6b33af54aee9a28118c42532a95bf2744e8df7d
+=
+blog/views.py,e\7\e7a8c955252fc1494be19edcdaa6f927cd79a1a7
