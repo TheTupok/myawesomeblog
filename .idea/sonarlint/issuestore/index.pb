@@ -18,9 +18,6 @@ I
 	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
 B
 events/__init__.py,c\e\ced864e045488053d4d464ce743782f9722d4e15
-:
-
-db.sqlite3,9\0\907ac5e500f6286c18519bf943721af4c97e50d5
 I
 myawesomeblog/__init__.py,8\8\885157b082e0ce65937be64c8b9fdae472754423
 E
@@ -49,3 +46,5 @@ M
 blog/urls.py,f\6\f6b33af54aee9a28118c42532a95bf2744e8df7d
 =
 blog/views.py,e\7\e7a8c955252fc1494be19edcdaa6f927cd79a1a7
+V
+&blog/templates/blog/specific_post.html,7\a\7a96d2e584751e530bf6c8efe90891e02e5cd334
